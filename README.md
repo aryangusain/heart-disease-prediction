@@ -34,7 +34,7 @@ The application is deployed using Streamlit, providing an easy-to-use and access
 2. Run the application:
 
     ```bash
-    streamlit run heart_disease_prediction_app.py
+    streamlit run streamlit_app.py
     ```
 
 3. Open your web browser and go to the provided URL to use the Heart Disease Prediction system.
